@@ -16,7 +16,7 @@ The projects are located in the `Projects` folder, and should only be attempted 
 
 ## How to begin the course
 
-Hold control (or command on Mac) while clicking [here](https://bdavis222.github.io/python-course) to visit the website for the course in a new tab. Keep both of these tabs open (this page and the new one you just opened) to follow along with these instructions.
+Hold control (or command on Mac) while clicking [here](https://bdavis222.github.io/python-course) to visit the website for the course in a new tab.
 
 When the course website is launched in the new tab you just opened, you will see the following:
 
