@@ -24,4 +24,4 @@ At any time, you can navigate back to the starting folder by clicking the folder
 
 ![](https://github.com/bdavis222/python-course/blob/main/images/back.png)
 
-<a href="https://bdavis222.github.io/python-course" target="_blank">Click here</a> to visit the website for the course.
+[Click here](https://bdavis222.github.io/python-course) to visit the website for the course.
