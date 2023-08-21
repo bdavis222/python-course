@@ -1,29 +1,17 @@
-# JupyterLite Demo
+# Introduction to Python
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+Welcome! This is an interactive course designed to teach Python programming to beginners with no programming experience. The course contains three main sections:
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+## Lessons
 
-## ✨ Try it in your browser ✨
+These are the main lessons that will teach the concepts. These are located in the `Lessons` folder, and are numbered according to the order in which each lesson should be taken.
 
-➡️ **https://jupyterlite.github.io/demo**
+## Tutorials
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+After each lesson, the student can find a corresponding tutorial in the `Tutorials` folder. The `solutions` folder within the `Tutorials` folder has solutions for all of the tutorials. Obviously, these should only be viewed for each tutorial _after_ completing that tutorial.
 
-## Requirements
+## Projects
 
-JupyterLite is being tested against modern web browsers:
+The projects are located in the `Projects` folder, and should only be attempted _after_ all of the lessons and tutorials are completed.
 
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+[Click here](bdavis222.github.io/python-course) to visit the website for the course.
