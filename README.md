@@ -14,4 +14,4 @@ After each lesson, the student can find a corresponding tutorial in the `Tutoria
 
 The projects are located in the `Projects` folder, and should only be attempted _after_ all of the lessons and tutorials are completed.
 
-[Click here](bdavis222.github.io/python-course) to visit the website for the course.
+[Click here]([bdavis222.github.io/python-course](https://bdavis222.github.io/python-course)https://bdavis222.github.io/python-course) to visit the website for the course.
