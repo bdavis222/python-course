@@ -8,7 +8,7 @@ These are the main lessons that will teach the concepts. These are located in th
 
 ## Tutorials
 
-After each lesson, the student can find a corresponding tutorial in the `Tutorials` folder. The `solutions` folder within the `Tutorials` folder has solutions for all of the tutorials. Obviously, these should only be viewed for each tutorial _after_ completing that tutorial.
+After each lesson, the student can find a corresponding tutorial in the `Tutorials` folder. The `Solutions` folder within the `Tutorials` folder has solutions for all of the tutorials. Obviously, these should only be viewed for each tutorial _after_ completing that tutorial.
 
 ## Projects
 
