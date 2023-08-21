@@ -2,17 +2,21 @@
 
 Welcome! This is an interactive course designed to teach Python programming to beginners with no programming experience. The course contains three main sections:
 
-## Lessons
+### Lessons
 
 These are the main lessons that will teach the concepts. These are located in the `Lessons` folder, and are numbered according to the order in which each lesson should be taken.
 
-## Tutorials
+### Tutorials
 
 After each lesson, the student can find a corresponding tutorial in the `Tutorials` folder. The `Solutions` folder within the `Tutorials` folder has solutions for all of the tutorials. Obviously, these should only be viewed for each tutorial _after_ completing that tutorial.
 
-## Projects
+### Projects
 
 The projects are located in the `Projects` folder, and should only be attempted _after_ all of the lessons and tutorials are completed.
+
+## How to begin the course
+
+Hold control (or command on Mac) while clicking [here](https://bdavis222.github.io/python-course) to visit the website for the course in a new tab. Keep this tab open to follow along with these instructions.
 
 When the course website is launched, you will see the following:
 
@@ -24,4 +28,4 @@ At any time, you can navigate back to the starting folder by clicking the folder
 
 ![](https://github.com/bdavis222/python-course/blob/main/images/back.png)
 
-[Click here](https://bdavis222.github.io/python-course) to visit the website for the course.
+Follow along with the content in each lesson, tutorial, and project, and have fun learning!
