@@ -1,5 +1,7 @@
 # Introduction to Python
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=UA5NL9MJSFMVY)
+
 Welcome! This is an interactive course designed to teach Python programming to beginners with no programming experience. The course contains three main sections:
 
 #### Lessons
