@@ -22,7 +22,7 @@ When the course website is launched in the new tab you just opened, you will see
 
 ![](https://github.com/bdavis222/python-course/blob/main/images/folders.png)
 
-Note that the three folders shown in the red box are the only things you need to access to begin the course. Double-click the `Lessons` folder and then double-click `01_intro.ipynb` to begin the first lesson. The lesson content will be displayed on the right side of the screen.
+Note that the three folders shown in the red box are the only things you need to access to begin the course. Double-click the `Lessons` folder and then double-click `00_intro.ipynb` to begin the first lesson. The lesson content will be displayed on the right side of the screen.
 
 At any time, you can navigate back to the starting folder by clicking the folder icon shown in this image:
 
